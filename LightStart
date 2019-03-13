@@ -1,0 +1,5 @@
+Light start 
+int main() 
+{
+ wait_for_light(0); // change the port number to match the port the robot uses shut_down_in(119); // shut off the motors and stop the robot after 119 seconds // The code return 0;
+ } 
